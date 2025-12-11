@@ -1,0 +1,3 @@
+The Resume Builder Web Application is a Java-based dynamic web project that allows users to create, preview, and download professional resumes using predefined templates. The application collects user details such as personal information, skills, experience, and education, stores them in a database, and allows users to download the resume as a PDF document.
+
+The project uses JSP for the presentation layer, Servlets for controller logic, Hibernate for ORM-based database operations, and JDBC for optional direct SQL connectivity. This system automates resume creation and eliminates the need for manual formatting, offering a user-friendly interface and multiple template choices.
